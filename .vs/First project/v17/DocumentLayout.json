@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\game dev\\first project\\first project\\assets\\scripts\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\assets\\scripts\\displayimagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displayimagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\assets\\scripts\\pendulumswing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pendulumswing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\assets\\scripts\\ballrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\assets\\scripts\\spinningblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spinningblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\assets\\scripts\\camfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D5B72-2A66-B3A1-DACC-5DD21BAC888C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayImageScript.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\DisplayImageScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DisplayImageScript.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\DisplayImageScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DisplayImageScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:30:45.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\MainMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScript.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\MainMenuScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScript.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:49:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpinningBlade.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\SpinningBlade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpinningBlade.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\SpinningBlade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpinningBlade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:33:32.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PendulumSwing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\PendulumSwing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PendulumSwing.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\PendulumSwing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PendulumSwing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:09:10.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BallRespawn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\BallRespawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallRespawn.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\BallRespawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallRespawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:49:46.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\camFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\camFollow.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\camFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\camFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:53:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\game dev\\First project\\First project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:21:57.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
